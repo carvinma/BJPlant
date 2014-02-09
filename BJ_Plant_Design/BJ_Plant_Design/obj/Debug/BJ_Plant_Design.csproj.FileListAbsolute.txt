@@ -1,0 +1,36 @@
+E:\VS2012创建的项目\BJ_Plant_Design\BJ_Plant_Design\bin\Debug\BJ_Plant_Design.exe.config
+E:\VS2012创建的项目\BJ_Plant_Design\BJ_Plant_Design\bin\Debug\BJ_Plant_Design.exe
+E:\VS2012创建的项目\BJ_Plant_Design\BJ_Plant_Design\bin\Debug\BJ_Plant_Design.pdb
+E:\VS2012创建的项目\BJ_Plant_Design\BJ_Plant_Design\obj\Debug\BJ_Plant_Design.Form1.resources
+E:\VS2012创建的项目\BJ_Plant_Design\BJ_Plant_Design\obj\Debug\BJ_Plant_Design.Properties.Resources.resources
+E:\VS2012创建的项目\BJ_Plant_Design\BJ_Plant_Design\obj\Debug\BJ_Plant_Design.csproj.GenerateResource.Cache
+E:\VS2012创建的项目\BJ_Plant_Design\BJ_Plant_Design\obj\Debug\BJ_Plant_Design.exe
+E:\VS2012创建的项目\BJ_Plant_Design\BJ_Plant_Design\obj\Debug\BJ_Plant_Design.pdb
+E:\VS2012创建的项目\BJ_Plant_Design\BJ_Plant_Design\obj\Debug\BJ_Plant_Design.Form2.resources
+E:\VS2012创建的项目\BJ_Plant_Design\BJ_Plant_Design\obj\Debug\BJ_Plant_Design.Form3.resources
+C:\Users\Administrator\Desktop\BJ_Plant_Design\BJ_Plant_Design\BJ_Plant_Design\bin\Debug\BJ_Plant_Design.exe.config
+C:\Users\Administrator\Desktop\BJ_Plant_Design\BJ_Plant_Design\BJ_Plant_Design\obj\Debug\BJ_Plant_Design.exe
+C:\Users\Administrator\Desktop\BJ_Plant_Design\BJ_Plant_Design\BJ_Plant_Design\obj\Debug\BJ_Plant_Design.pdb
+C:\Users\Administrator\Desktop\BJ_Plant_Design\BJ_Plant_Design\BJ_Plant_Design\bin\Debug\BJ_Plant_Design.exe
+C:\Users\Administrator\Desktop\BJ_Plant_Design\BJ_Plant_Design\BJ_Plant_Design\bin\Debug\BJ_Plant_Design.pdb
+C:\Users\Administrator\Desktop\BJ_Plant_Design\BJ_Plant_Design\BJ_Plant_Design\obj\Debug\BJ_Plant_Design.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\BJ_Plant_Design\BJ_Plant_Design\BJ_Plant_Design\obj\Debug\BJ_Plant_Design.Form1.resources
+C:\Users\Administrator\Desktop\BJ_Plant_Design\BJ_Plant_Design\BJ_Plant_Design\obj\Debug\BJ_Plant_Design.Form2.resources
+C:\Users\Administrator\Desktop\BJ_Plant_Design\BJ_Plant_Design\BJ_Plant_Design\obj\Debug\BJ_Plant_Design.Form3.resources
+C:\Users\Administrator\Desktop\BJ_Plant_Design\BJ_Plant_Design\BJ_Plant_Design\obj\Debug\BJ_Plant_Design.Form4.resources
+C:\Users\Administrator\Desktop\BJ_Plant_Design\BJ_Plant_Design\BJ_Plant_Design\obj\Debug\BJ_Plant_Design.Properties.Resources.resources
+C:\Users\Administrator\Desktop\BJ_Plant_Design\BJ_Plant_Design\BJ_Plant_Design\obj\Debug\BJ_Plant_Design.csproj.GenerateResource.Cache
+C:\Users\mchlb\Desktop\BJ_Plant_Design\BJ_Plant_Design\BJ_Plant_Design\bin\Debug\BJ_Plant_Design.exe.config
+C:\Users\mchlb\Desktop\BJ_Plant_Design\BJ_Plant_Design\BJ_Plant_Design\obj\Debug\BJ_Plant_Design.exe
+C:\Users\mchlb\Desktop\BJ_Plant_Design\BJ_Plant_Design\BJ_Plant_Design\obj\Debug\BJ_Plant_Design.pdb
+C:\Users\Administrator\Desktop\新建文件夹 (3)\BJ_Plant_Design\BJ_Plant_Design\BJ_Plant_Design\bin\Debug\BJ_Plant_Design.exe.config
+C:\Users\Administrator\Desktop\新建文件夹 (3)\BJ_Plant_Design\BJ_Plant_Design\BJ_Plant_Design\bin\Debug\BJ_Plant_Design.exe
+C:\Users\Administrator\Desktop\新建文件夹 (3)\BJ_Plant_Design\BJ_Plant_Design\BJ_Plant_Design\bin\Debug\BJ_Plant_Design.pdb
+C:\Users\Administrator\Desktop\新建文件夹 (3)\BJ_Plant_Design\BJ_Plant_Design\BJ_Plant_Design\obj\Debug\BJ_Plant_Design.Form1.resources
+C:\Users\Administrator\Desktop\新建文件夹 (3)\BJ_Plant_Design\BJ_Plant_Design\BJ_Plant_Design\obj\Debug\BJ_Plant_Design.frmInfo.resources
+C:\Users\Administrator\Desktop\新建文件夹 (3)\BJ_Plant_Design\BJ_Plant_Design\BJ_Plant_Design\obj\Debug\BJ_Plant_Design.frmCase.resources
+C:\Users\Administrator\Desktop\新建文件夹 (3)\BJ_Plant_Design\BJ_Plant_Design\BJ_Plant_Design\obj\Debug\BJ_Plant_Design.frmCaseInfo.resources
+C:\Users\Administrator\Desktop\新建文件夹 (3)\BJ_Plant_Design\BJ_Plant_Design\BJ_Plant_Design\obj\Debug\BJ_Plant_Design.Properties.Resources.resources
+C:\Users\Administrator\Desktop\新建文件夹 (3)\BJ_Plant_Design\BJ_Plant_Design\BJ_Plant_Design\obj\Debug\BJ_Plant_Design.csproj.GenerateResource.Cache
+C:\Users\Administrator\Desktop\新建文件夹 (3)\BJ_Plant_Design\BJ_Plant_Design\BJ_Plant_Design\obj\Debug\BJ_Plant_Design.exe
+C:\Users\Administrator\Desktop\新建文件夹 (3)\BJ_Plant_Design\BJ_Plant_Design\BJ_Plant_Design\obj\Debug\BJ_Plant_Design.pdb
