@@ -34,3 +34,6 @@ C:\Users\Administrator\Desktop\新建文件夹 (3)\BJ_Plant_Design\BJ_Plant_Desi
 C:\Users\Administrator\Desktop\新建文件夹 (3)\BJ_Plant_Design\BJ_Plant_Design\BJ_Plant_Design\obj\Debug\BJ_Plant_Design.csproj.GenerateResource.Cache
 C:\Users\Administrator\Desktop\新建文件夹 (3)\BJ_Plant_Design\BJ_Plant_Design\BJ_Plant_Design\obj\Debug\BJ_Plant_Design.exe
 C:\Users\Administrator\Desktop\新建文件夹 (3)\BJ_Plant_Design\BJ_Plant_Design\BJ_Plant_Design\obj\Debug\BJ_Plant_Design.pdb
+E:\ProjectWork\BJPlant\trunk\BJ_Plant_Design\BJ_Plant_Design\bin\Debug\BJ_Plant_Design.exe.config
+E:\ProjectWork\BJPlant\trunk\BJ_Plant_Design\BJ_Plant_Design\obj\Debug\BJ_Plant_Design.exe
+E:\ProjectWork\BJPlant\trunk\BJ_Plant_Design\BJ_Plant_Design\obj\Debug\BJ_Plant_Design.pdb
